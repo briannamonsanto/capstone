@@ -1,0 +1,42 @@
+body {
+	font-size:     font-size: x-large;
+;
+	background-color: #5993a3;
+	font-family: 'Rubik', sans-serif;
+}
+
+.webpage {
+	background-color: #5993a3;
+	display: flex;
+}
+
+.page {
+	background-color: white;
+    border-style: ridge;
+    border-width: thick;
+    border-color: darkgray;
+    margin: 10px;
+    padding: 25px;
+    
+}
+
+.copy {font-size: xx-large;}
+
+h1{font-size: 30;
+    text-align: center;
+}
+
+h6{
+	font-size: x-large;
+    line-height: 0.6;
+    text-align: center;
+}
+
+.picture{
+	
+	display: table;
+	margin: 0 auto;
+}
+
+
+}
